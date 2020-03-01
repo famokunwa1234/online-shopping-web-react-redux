@@ -2,10 +2,12 @@
   "name": "online-shopping-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://famokunwa1234.github.io/online-shopping-web-react-readux",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-redux": "^7.2.0",
@@ -14,6 +16,7 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
