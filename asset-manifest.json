@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/online-shopping-web-react-readux/static/css/main.d1b05096.chunk.css",
-    "main.js": "/online-shopping-web-react-readux/static/js/main.3eeb8d87.chunk.js",
-    "main.js.map": "/online-shopping-web-react-readux/static/js/main.3eeb8d87.chunk.js.map",
-    "runtime-main.js": "/online-shopping-web-react-readux/static/js/runtime-main.336e742e.js",
-    "runtime-main.js.map": "/online-shopping-web-react-readux/static/js/runtime-main.336e742e.js.map",
-    "static/js/2.b686416b.chunk.js": "/online-shopping-web-react-readux/static/js/2.b686416b.chunk.js",
-    "static/js/2.b686416b.chunk.js.map": "/online-shopping-web-react-readux/static/js/2.b686416b.chunk.js.map",
-    "index.html": "/online-shopping-web-react-readux/index.html",
-    "precache-manifest.ff997b1d46894cd5b050afac3a5291f2.js": "/online-shopping-web-react-readux/precache-manifest.ff997b1d46894cd5b050afac3a5291f2.js",
-    "service-worker.js": "/online-shopping-web-react-readux/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/online-shopping-web-react-readux/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.b686416b.chunk.js.LICENSE.txt": "/online-shopping-web-react-readux/static/js/2.b686416b.chunk.js.LICENSE.txt"
+    "main.css": "/online-shopping-web-react-redux/static/css/main.d1b05096.chunk.css",
+    "main.js": "/online-shopping-web-react-redux/static/js/main.770c69fa.chunk.js",
+    "main.js.map": "/online-shopping-web-react-redux/static/js/main.770c69fa.chunk.js.map",
+    "runtime-main.js": "/online-shopping-web-react-redux/static/js/runtime-main.8a3043bc.js",
+    "runtime-main.js.map": "/online-shopping-web-react-redux/static/js/runtime-main.8a3043bc.js.map",
+    "static/js/2.b686416b.chunk.js": "/online-shopping-web-react-redux/static/js/2.b686416b.chunk.js",
+    "static/js/2.b686416b.chunk.js.map": "/online-shopping-web-react-redux/static/js/2.b686416b.chunk.js.map",
+    "index.html": "/online-shopping-web-react-redux/index.html",
+    "precache-manifest.530440b26040a25110c3f2c89ffc945c.js": "/online-shopping-web-react-redux/precache-manifest.530440b26040a25110c3f2c89ffc945c.js",
+    "service-worker.js": "/online-shopping-web-react-redux/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/online-shopping-web-react-redux/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b686416b.chunk.js.LICENSE.txt": "/online-shopping-web-react-redux/static/js/2.b686416b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.336e742e.js",
+    "static/js/runtime-main.8a3043bc.js",
     "static/js/2.b686416b.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.3eeb8d87.chunk.js"
+    "static/js/main.770c69fa.chunk.js"
   ]
 }
